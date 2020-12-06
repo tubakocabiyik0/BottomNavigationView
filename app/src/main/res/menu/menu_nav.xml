@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="home page"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item
+        android:id="@+id/friends"
+        android:title="find friend"
+        android:icon="@drawable/ic_baseline_group_add_24"
+        />
+    <item
+        android:id="@+id/profil"
+        android:title="profil"
+        android:icon="@drawable/ic_baseline_person_24"
+        />
+    <item android:id="@+id/post" android:title="add post" android:icon="@drawable/ic_baseline_add_photo_alternate_24">
+
+    </item>
+</menu>
